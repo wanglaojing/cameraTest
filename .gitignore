@@ -33,3 +33,7 @@
 /HelloWorldFreeRunLine/Debug/*.ilk
 /HelloWorldFreeRunLine/Debug/*.pdb
 /HelloWorldFreeRunLine/HelloWorldFreeRunLine/Debug
+/HelloWorldFreeRunLine/HelloWorldFreeRunLine/samples
+/HelloWorldFreeRunLine/HelloWorldFreeRunLine/dbghelp.pdb
+/HelloWorldFreeRunLine/HelloWorldFreeRunLine/Release
+/HelloWorldFreeRunLine/Release
